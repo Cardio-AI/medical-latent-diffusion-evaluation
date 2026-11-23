@@ -1,0 +1,13 @@
+# Tested with Python 3.10 and PyTorch 2.10 / torchvision 0.25.
+torch==2.10.0
+torchvision==0.25.0
+monai==1.5.2
+monai-generative==0.2.3
+numpy==2.2.6
+scipy==1.15.3
+nibabel==5.3.3
+Pillow==11.3.0
+omegaconf==2.3.0
+tensorboardX==2.6.4
+lpips==0.1.4
+tqdm==4.67.3

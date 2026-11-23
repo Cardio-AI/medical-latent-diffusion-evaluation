@@ -1,0 +1,1 @@
+The vendored evaluation modules in this directory are included under the Apache License, Version 2.0. See LICENSE in this directory. The distribution and PRDC metric files are retained unchanged. Package initializers were reduced to the selected modules, and evaluation/radimagenet_checkpoint.py adapts the upstream checkpoint-key converter.

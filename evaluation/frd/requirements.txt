@@ -1,0 +1,8 @@
+numpy==2.2.6
+scipy==1.15.3
+Pillow==12.3.0
+SimpleITK==2.5.6
+PyWavelets==1.8.0
+opencv-contrib-python-headless==5.0.0.93
+frd-score @ git+https://github.com/RichardObi/frd-score.git@bf05c71fc44e461ab123bd273e58390b90f9cf54
+pyradiomics @ git+https://github.com/AIM-Harvard/pyradiomics.git@8ed579383b44806651c463d5e691f3b2b57522ab
